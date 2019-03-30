@@ -1,0 +1,1524 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.2, user-scalable=yes" name="viewport"/>
+  <title>
+   List of Common Birds : Part 1 - Souranil De
+  </title>
+  <!-- This site is optimized with the Yoast SEO plugin v9.4 - https://yoast.com/wordpress/plugins/seo/ -->
+  <meta content="Common List : Black Drongo, Cormorant, Rose-Ringed Parakeet, Pied Mynah, Magpie Robin, Black-Rumped Flameback, Coppersmith Barbet, White-throated Kingfisher" name="description"/>
+  <link href="http://souranil.de/list-common-birds-part-1/" rel="canonical"/>
+  <meta content="en_US" property="og:locale"/>
+  <meta content="article" property="og:type"/>
+  <meta content="List of Common Birds : Part 1 - Souranil De" property="og:title"/>
+  <meta content="Common List : Black Drongo, Cormorant, Rose-Ringed Parakeet, Pied Mynah, Magpie Robin, Black-Rumped Flameback, Coppersmith Barbet, White-throated Kingfisher" property="og:description"/>
+  <meta content="http://souranil.de/list-common-birds-part-1/" property="og:url"/>
+  <meta content="Souranil De" property="og:site_name"/>
+  <meta content="https://www.facebook.com/souranil.da.birder/" property="article:publisher"/>
+  <meta content="https://www.facebook.com/souranil.de/" property="article:author"/>
+  <meta content="Bird appearance" property="article:tag"/>
+  <meta content="bird distribution India" property="article:tag"/>
+  <meta content="bird distributions" property="article:tag"/>
+  <meta content="bird habitat" property="article:tag"/>
+  <meta content="bird habitats" property="article:tag"/>
+  <meta content="bird habits" property="article:tag"/>
+  <meta content="birds of India" property="article:tag"/>
+  <meta content="black drongo" property="article:tag"/>
+  <meta content="black rumped flameback" property="article:tag"/>
+  <meta content="common birds" property="article:tag"/>
+  <meta content="common birds of india" property="article:tag"/>
+  <meta content="commoners" property="article:tag"/>
+  <meta content="coppersmith barbet" property="article:tag"/>
+  <meta content="golden-backed woodpecker" property="article:tag"/>
+  <meta content="Indian birds" property="article:tag"/>
+  <meta content="indian cormorant" property="article:tag"/>
+  <meta content="oriental magpie robin" property="article:tag"/>
+  <meta content="pied mynah" property="article:tag"/>
+  <meta content="rose ringed parakeet" property="article:tag"/>
+  <meta content="white throated kingfisher" property="article:tag"/>
+  <meta content="Birding" property="article:section"/>
+  <meta content="2016-12-09T16:14:08+00:00" property="article:published_time"/>
+  <meta content="2018-03-31T23:48:18+00:00" property="article:modified_time"/>
+  <meta content="2018-03-31T23:48:18+00:00" property="og:updated_time"/>
+  <meta content="http://souranil.de/wp-content/uploads/2016/10/Oriental-Magpie-Robin-1024x683.jpg" property="og:image"/>
+  <meta content="1024" property="og:image:width"/>
+  <meta content="683" property="og:image:height"/>
+  <meta content="oriental-magpie-robin-commoners" property="og:image:alt"/>
+  <meta content="summary" name="twitter:card"/>
+  <meta content="Common List : Black Drongo, Cormorant, Rose-Ringed Parakeet, Pied Mynah, Magpie Robin, Black-Rumped Flameback, Coppersmith Barbet, White-throated Kingfisher" name="twitter:description"/>
+  <meta content="List of Common Birds : Part 1 - Souranil De" name="twitter:title"/>
+  <meta content="http://souranil.de/wp-content/uploads/2016/10/Oriental-Magpie-Robin.jpg" name="twitter:image"/>
+  <script type="application/ld+json">
+   {"@context":"https://schema.org","@type":"Person","url":"http://souranil.de/","sameAs":["https://www.facebook.com/souranil.da.birder/","https://www.instagram.com/souranil.de/"],"@id":"#person","name":"Souranil De"}
+  </script>
+  <!-- / Yoast SEO plugin. -->
+  <link href="//maxcdn.bootstrapcdn.com" rel="dns-prefetch"/>
+  <link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+  <link href="//s.w.org" rel="dns-prefetch"/>
+  <link href="http://souranil.de/feed/" rel="alternate" title="Souranil De » Feed" type="application/rss+xml"/>
+  <link href="http://souranil.de/comments/feed/" rel="alternate" title="Souranil De » Comments Feed" type="application/rss+xml"/>
+  <link href="http://souranil.de/list-common-birds-part-1/feed/" rel="alternate" title="Souranil De » List of Common Birds : Part 1 Comments Feed" type="application/rss+xml"/>
+  <script type="text/javascript">
+   window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/souranil.de\/wp-includes\/js\/wp-emoji-release.min.js?ver=671c3a75ff4226f744d0c3797082995e"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+  </script>
+  <style type="text/css">
+   img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+  </style>
+  <link href="http://souranil.de/wp-content/plugins/accesspress-social-icons/css/animate.css?ver=1.7.2" id="aps-animate-css-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://souranil.de/wp-content/plugins/accesspress-social-icons/css/frontend.css?ver=1.7.2" id="aps-frontend-css-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://souranil.de/wp-content/plugins/folder-gallery/css/style.css?ver=671c3a75ff4226f744d0c3797082995e" id="fg-style-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://souranil.de/wp-content/plugins/instagram-feed/css/sb-instagram.min.css?ver=1.10.2" id="sb_instagram_styles-css" media="all" rel="stylesheet" type="text/css"/>
+  <link crossorigin="anonymous" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" id="sb-font-awesome-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://souranil.de/wp-content/plugins/photo-gallery/css/sumoselect.min.css?ver=3.0.3" id="bwg_sumoselect-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://souranil.de/wp-content/plugins/photo-gallery/css/font-awesome/font-awesome.min.css?ver=4.6.3" id="bwg_font-awesome-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://souranil.de/wp-content/plugins/photo-gallery/css/jquery.mCustomScrollbar.min.css?ver=1.5.14" id="bwg_mCustomScrollbar-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://souranil.de/wp-includes/css/dashicons.min.css?ver=671c3a75ff4226f744d0c3797082995e" id="dashicons-css" media="all" rel="stylesheet" type="text/css"/>
+  <link crossorigin="anonymous" href="https://fonts.googleapis.com/css?family=Ubuntu&amp;subset=greek,latin,greek-ext,vietnamese,cyrillic-ext,latin-ext,cyrillic" id="bwg_googlefonts-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://souranil.de/wp-content/plugins/photo-gallery/css/bwg_frontend.css?ver=1.5.14" id="bwg_frontend-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://souranil.de/wp-content/plugins/ultimate-social-media-icons/css/sfsi-style.css?ver=671c3a75ff4226f744d0c3797082995e" id="SFSImainCss-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://souranil.de/wp-content/plugins/wp-polls/polls-css.css?ver=2.75.2" id="wp-polls-css" media="all" rel="stylesheet" type="text/css"/>
+  <style id="wp-polls-inline-css" type="text/css">
+   .wp-polls .pollbar {
+	margin: 1px;
+	font-size: 6px;
+	line-height: 8px;
+	height: 8px;
+	background-image: url('http://souranil.de/wp-content/plugins/wp-polls/images/default/pollbg.gif');
+	border: 1px solid #c8c8c8;
+}
+  </style>
+  <link href="http://souranil.de/wp-content/themes/suevafree/assets/css/bootstrap.min.css?ver=671c3a75ff4226f744d0c3797082995e" id="suevafree-bootstrap.min-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://souranil.de/wp-content/themes/suevafree/assets/css/font-awesome.css?ver=671c3a75ff4226f744d0c3797082995e" id="suevafree-font-awesome-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://souranil.de/wp-content/themes/suevafree/assets/css/minimal_layout.css?ver=671c3a75ff4226f744d0c3797082995e" id="suevafree-minimal_layout-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://souranil.de/wp-content/themes/suevafree/assets/css/prettyPhoto.css?ver=671c3a75ff4226f744d0c3797082995e" id="suevafree-prettyPhoto-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://souranil.de/wp-content/themes/suevafree/assets/css/template.css?ver=671c3a75ff4226f744d0c3797082995e" id="suevafree-template-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://souranil.de/wp-content/themes/suevafree/assets/css/woocommerce.css?ver=671c3a75ff4226f744d0c3797082995e" id="suevafree-woocommerce-css" media="all" rel="stylesheet" type="text/css"/>
+  <link crossorigin="anonymous" href="https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic%7CRaleway:400,800,900,700,600,500,300,200,100%7CAllura&amp;subset=latin,greek,greek-ext,vietnamese,cyrillic-ext,latin-ext,cyrillic" id="suevafree_google_fonts-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://souranil.de/wp-content/themes/suevafree/assets/css/header/header_layout_1.css?ver=671c3a75ff4226f744d0c3797082995e" id="suevafree-header_layout_1-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://souranil.de/wp-content/themes/suevafree/assets/skins/orange.css?ver=671c3a75ff4226f744d0c3797082995e" id="suevafree-orange-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="http://souranil.de/wp-content/plugins/wp-social-sharing/static/socialshare.css?ver=1.6" id="wp-social-sharing-css" media="all" rel="stylesheet" type="text/css"/>
+  <script src="http://souranil.de/wp-includes/js/jquery/jquery.js?ver=1.12.4" type="text/javascript">
+  </script>
+  <script src="http://souranil.de/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript">
+  </script>
+  <script src="http://souranil.de/wp-content/plugins/accesspress-social-icons/js/frontend.js?ver=1.7.2" type="text/javascript">
+  </script>
+  <!--[if IE 8]>
+<script type='text/javascript' src='http://souranil.de/wp-content/themes/suevafree/assets/scripts/html5.js?ver=671c3a75ff4226f744d0c3797082995e'></script>
+<![endif]-->
+  <!--[if IE 8]>
+<script type='text/javascript' src='http://souranil.de/wp-content/themes/suevafree/assets/scripts/selectivizr-min.js?ver=671c3a75ff4226f744d0c3797082995e'></script>
+<![endif]-->
+  <link href="http://souranil.de/wp-json/" rel="https://api.w.org/"/>
+  <link href="http://souranil.de/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+  <link href="http://souranil.de/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+  <link href="http://souranil.de/?p=172" rel="shortlink"/>
+  <link href="http://souranil.de/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fsouranil.de%2Flist-common-birds-part-1%2F" rel="alternate" type="application/json+oembed"/>
+  <link href="http://souranil.de/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fsouranil.de%2Flist-common-birds-part-1%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+  <meta content="List of Common Birds : Part 1 - Souranil De « Souranil De" property="og:title"/>
+  <meta content="article" property="og:type"/>
+  <meta content="http://souranil.de/list-common-birds-part-1/" property="og:url"/>
+  <meta content="http://souranil.de/wp-content/uploads/2016/10/Oriental-Magpie-Robin-300x200.jpg" property="og:image"/>
+  <meta content="Souranil De" property="og:site_name"/>
+  <meta content="914930675307807" property="fb:pages"/>
+  <link href="http://souranil.de/wp-json" rel="https://github.com/WP-API/WP-API"/>
+  <meta content="V8XWpnxVTN4zvqXEK9Ms" name="specificfeeds-verification-code-WFdFZGs0WEhBQkw3bVVTc2U2b29naEdsVjJyaFYwTThXMldkVjhtMktZRjFxTmM3ZVlreC8zSngvcDQ3dGp6M3M4TWVkT0UrQ3JYZTZlQ255M3c5cjAzMjFXTWs5a2xCZHlJWlAvWG9sMGw0TEVCeVQ2b0pHc3BDbFNEV0ZrTEp8ekNvRjZSUEJuSWZmYVVVSVJ6bkplOVRCK1djR2UxUnIvR3ZDN20xcWtIWT0="/>
+  <script type="text/javascript">
+   (function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//souranil.de/?wordfence_lh=1&hid=675C592BDBDE2A47D4A248B750612288');
+  </script>
+  <script type="text/javascript">
+   window._wp_rp_static_base_url = 'https://wprp.zemanta.com/static/';
+	window._wp_rp_wp_ajax_url = "http://souranil.de/wp-admin/admin-ajax.php";
+	window._wp_rp_plugin_version = '3.6.4';
+	window._wp_rp_post_id = '172';
+	window._wp_rp_num_rel_posts = '6';
+	window._wp_rp_thumbnails = true;
+	window._wp_rp_post_title = 'List+of+Common+Birds+%3A+Part+1';
+	window._wp_rp_post_tags = ['white+throated+kingfisher', 'bird+appearance', 'golden-backed+woodpecker', 'black+drongo', 'bird+distribution+india', 'indian+birds', 'black+rumped+flameback', 'bird+distributions', 'indian+cormorant', 'common+birds', 'bird+habitat', 'oriental+magpie+robin', 'common+birds+of+india', 'bird+habitats', 'pied+mynah', 'commoners', 'bird+habits', 'rose+ringed+parakeet', 'coppersmith+barbet', 'birds+of+india', 'birding', 'common', 'photography', 'wildlife', 'deal', 'king', 'juvenil', 'urban', 'daili', 'red', 'tail', 'indian', 'fork', 'crow', 'black', 'map', 'dark', 'bird', 'belli'];
+	window._wp_rp_promoted_content = true;
+  </script>
+  <link href="http://souranil.de/wp-content/plugins/wordpress-23-related-posts-plugin/static/themes/vertical-m.css?version=3.6.4" rel="stylesheet"/>
+  <!-- WP Content Copy Protection script by Rynaldo Stoltz Starts -->
+  <noscript>
+   <div style="position:fixed; top:0px; left:0px; z-index:3000; height:100%; width:100%; background-color:#FFFFFF">
+    <div style="font-family: Trebuchet MS; font-size: 14px; background-color:#FFF000; padding: 10pt;">
+     Oops! It appears that you have disabled your Javascript. In order for you to see this page as it is meant to appear, we ask that you please re-enable your Javascript!
+    </div>
+   </div>
+  </noscript>
+  <script type="text/javascript">
+   function disableSelection(e){if(typeof e.onselectstart!="undefined")e.onselectstart=function(){return false};else if(typeof e.style.MozUserSelect!="undefined")e.style.MozUserSelect="none";else e.onmousedown=function(){return false};e.style.cursor="default"}window.onload=function(){disableSelection(document.body)}
+  </script>
+  <script type="text/javascript">
+   document.oncontextmenu=function(e){var t=e||window.event;var n=t.target||t.srcElement;if(n.nodeName!="A")return false};
+document.ondragstart=function(){return false};
+  </script>
+  <style type="text/css">
+   * : (input, textarea) {
+	-webkit-touch-callout:none;
+	-webkit-user-select:none;
+}
+  </style>
+  <style type="text/css">
+   img {
+	-webkit-touch-callout:none;
+	-webkit-user-select:none;
+}
+  </style>
+  <script type="text/javascript">
+   window.addEventListener("keydown",function(e){if(e.ctrlKey&&(e.which==65||e.which==66||e.which==67||e.which==70||e.which==73||e.which==80||e.which==83||e.which==85||e.which==86)){e.preventDefault()}});document.keypress=function(e){if(e.ctrlKey&&(e.which==65||e.which==66||e.which==70||e.which==67||e.which==73||e.which==80||e.which==83||e.which==85||e.which==86)){}return false}
+/**
+ * For mac we need to check metakey
+ */
+window.addEventListener("keydown",function(e){if( event.metaKey&&(e.which==65||e.which==66||e.which==67||e.which==70||e.which==73||e.which==80||e.which==83||e.which==85||e.which==86)){e.preventDefault()}});document.keypress=function(e){if(e.ctrlKey&&(e.which==65||e.which==66||e.which==70||e.which==67||e.which==73||e.which==80||e.which==83||e.which==85||e.which==86)){}return false}
+  </script>
+  <script type="text/javascript">
+   document.onkeydown=function(e){e=e||window.event;if(e.keyCode==123||e.keyCode==18){return false}}
+  </script>
+  <!-- WP Content Copy Protection script by Rynaldo Stoltz Ends  -->
+  <script id="wpcp_disable_selection" type="text/javascript">
+   //<![CDATA[
+var image_save_msg='You Can Not Save images!';
+	var no_menu_msg='Context Menu disabled!';
+	var smessage = "Content is protected !!";
+
+function disableEnterKey(e)
+{
+	if (e.ctrlKey){
+     var key;
+     if(window.event)
+          key = window.event.keyCode;     //IE
+     else
+          key = e.which;     //firefox (97)
+    //if (key != 17) alert(key);
+     if (key == 97 || key == 65 || key == 67 || key == 99 || key == 88 || key == 120 || key == 26 || key == 85  || key == 86 || key == 83 || key == 43)
+     {
+          show_wpcp_message('You are not allowed to copy content or view source');
+          return false;
+     }else
+     	return true;
+     }
+}
+
+function disable_copy(e)
+{	
+	var elemtype = e.target.nodeName;
+	var isSafari = /Safari/.test(navigator.userAgent) && /Apple Computer/.test(navigator.vendor);
+	elemtype = elemtype.toUpperCase();
+	var checker_IMG = '';
+	if (elemtype == "IMG" && checker_IMG == 'checked' && e.detail >= 2) {show_wpcp_message(alertMsg_IMG);return false;}
+	if (elemtype != "TEXT" && elemtype != "TEXTAREA" && elemtype != "INPUT" && elemtype != "PASSWORD" && elemtype != "SELECT" && elemtype != "OPTION" && elemtype != "EMBED")
+	{
+		if (smessage !== "" && e.detail == 2)
+			show_wpcp_message(smessage);
+		
+		if (isSafari)
+			return true;
+		else
+			return false;
+	}	
+}
+function disable_copy_ie()
+{
+	var elemtype = window.event.srcElement.nodeName;
+	elemtype = elemtype.toUpperCase();
+	if (elemtype == "IMG") {show_wpcp_message(alertMsg_IMG);return false;}
+	if (elemtype != "TEXT" && elemtype != "TEXTAREA" && elemtype != "INPUT" && elemtype != "PASSWORD" && elemtype != "SELECT" && elemtype != "OPTION" && elemtype != "EMBED")
+	{
+		//alert(navigator.userAgent.indexOf('MSIE'));
+			//if (smessage !== "") show_wpcp_message(smessage);
+		return false;
+	}
+}	
+function reEnable()
+{
+	return true;
+}
+document.onkeydown = disableEnterKey;
+document.onselectstart = disable_copy_ie;
+if(navigator.userAgent.indexOf('MSIE')==-1)
+{
+	document.onmousedown = disable_copy;
+	document.onclick = reEnable;
+}
+function disableSelection(target)
+{
+    //For IE This code will work
+    if (typeof target.onselectstart!="undefined")
+    target.onselectstart = disable_copy_ie;
+    
+    //For Firefox This code will work
+    else if (typeof target.style.MozUserSelect!="undefined")
+    {target.style.MozUserSelect="none";}
+    
+    //All other  (ie: Opera) This code will work
+    else
+    target.onmousedown=function(){return false}
+    target.style.cursor = "default";
+}
+//Calling the JS function directly just after body load
+window.onload = function(){disableSelection(document.body);};
+//]]>
+  </script>
+  <script id="wpcp_disable_Right_Click" type="text/javascript">
+   //<![CDATA[
+	document.ondragstart = function() { return false;}
+	/* ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+	Disable context menu on images by GreenLava Version 1.0
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ */
+	    function nocontext(e) {
+	       return false;
+	    }
+	    document.oncontextmenu = nocontext;
+	//]]>
+  </script>
+  <style>
+   .unselectable
+{
+-moz-user-select:none;
+-webkit-user-select:none;
+cursor: default;
+}
+html
+{
+-webkit-touch-callout: none;
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+-webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+  </style>
+  <script id="wpcp_css_disable_selection" type="text/javascript">
+   var e = document.getElementsByTagName('body')[0];
+if(e)
+{
+	e.setAttribute('unselectable',on);
+}
+  </script>
+  <style type="text/css">
+   #header.header-5{ background-image: url(http://souranil.de/wp-content/themes/suevafree/assets/images/background/header.jpg);-webkit-background-size: cover !important;-moz-background-size: cover !important;-o-background-size: cover !important;background-size: cover !important;background-attachment: fixed;}@media (min-width:768px) {.container{width:750px}}@media (min-width:768px) {.container.block{width:740px}}@media (min-width:768px) {.container.grid-container{width:730px}}
+  </style>
+  <style type="text/css">
+   .recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}
+  </style>
+  <style id="custom-background-css" type="text/css">
+   body.custom-background { background-color: #fcfcfc; }
+  </style>
+  <link href="http://souranil.de/list-common-birds-part-1/amp/" rel="amphtml"/>
+  <link href="http://souranil.de/wp-content/uploads/2016/06/cropped-IMG_6868-32x32.jpg" rel="icon" sizes="32x32">
+   <link href="http://souranil.de/wp-content/uploads/2016/06/cropped-IMG_6868-192x192.jpg" rel="icon" sizes="192x192"/>
+   <link href="http://souranil.de/wp-content/uploads/2016/06/cropped-IMG_6868-180x180.jpg" rel="apple-touch-icon-precomposed"/>
+   <meta content="http://souranil.de/wp-content/uploads/2016/06/cropped-IMG_6868-270x270.jpg" name="msapplication-TileImage"/>
+   <!-- BEGIN ExactMetrics v5.3.7 Universal Analytics - https://exactmetrics.com/ -->
+   <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-81005436-1', 'auto');
+  ga('send', 'pageview');
+   </script>
+   <!-- END ExactMetrics Universal Analytics -->
+   <meta data-pso-pt="singlePost" data-pso-pv="1.2.1" data-pso-th="8e4ed35860e916eac8ba663e2c95c17c"/>
+  </link>
+ </head>
+ <body class="post-template-default single single-post postid-172 single-format-standard custom-background unselectable minimal_layout elementor-default">
+  <div id="wrapper">
+   <div class="header-1" id="header-wrapper">
+    <header id="header">
+     <div class="container">
+      <div class="row">
+       <div class="col-md-12">
+        <div id="logo">
+         <a class="logo" href="http://souranil.de/" title="Souranil De">
+          Souranil De
+          <span>
+           Welcome to the world of birding !
+          </span>
+         </a>
+        </div>
+        <nav class="suevafree-menu suevafree-general-menu tinynav-menu">
+         <ul class="default-menu" id="menu-main-menu">
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-415" id="menu-item-415">
+           <a href="http://souranil.de/">
+            Home
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-514" id="menu-item-514">
+           <a href="http://souranil.de/blog/">
+            Blog
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-498" id="menu-item-498">
+           <a href="http://souranil.de/gallery/">
+            Gallery
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-434" id="menu-item-434">
+           <a href="http://www.instagram.com/souranil.de" target="_blank">
+            Instagram
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-416" id="menu-item-416">
+           <a href="http://souranil.de/contact-me/">
+            Contact Me
+           </a>
+          </li>
+         </ul>
+        </nav>
+       </div>
+      </div>
+     </div>
+    </header>
+   </div>
+   <div class="container content">
+    <div class="row">
+     <div class="col-md-12 full">
+      <div class="row">
+       <div class="post-172 post type-post status-publish format-standard has-post-thumbnail hentry category-birding category-uncategorized category-photography category-wildlife tag-bird-appearance tag-bird-distribution-india tag-bird-distributions tag-bird-habitat tag-bird-habitats tag-bird-habits tag-birds-of-india tag-black-drongo tag-black-rumped-flameback tag-common-birds tag-common-birds-of-india tag-commoners tag-coppersmith-barbet tag-golden-backed-woodpecker tag-indian-birds tag-indian-cormorant tag-oriental-magpie-robin tag-pied-mynah tag-rose-ringed-parakeet tag-white-throated-kingfisher post-container col-md-12">
+        <div class="pin-container">
+         <img alt="oriental-magpie-robin-commoners" class="attachment-suevafree_thumbnail size-suevafree_thumbnail wp-post-image" sizes="(max-width: 1035px) 100vw, 1035px" src="http://souranil.de/wp-content/uploads/2016/10/Oriental-Magpie-Robin.jpg" srcset="http://souranil.de/wp-content/uploads/2016/10/Oriental-Magpie-Robin.jpg 4860w, http://souranil.de/wp-content/uploads/2016/10/Oriental-Magpie-Robin-300x200.jpg 300w, http://souranil.de/wp-content/uploads/2016/10/Oriental-Magpie-Robin-768x512.jpg 768w, http://souranil.de/wp-content/uploads/2016/10/Oriental-Magpie-Robin-1024x683.jpg 1024w"/>
+        </div>
+        <div class="post-article post-details post-details-1 ">
+         <h1 class="title">
+          List of Common Birds : Part 1
+         </h1>
+         <div class="line">
+          <div class="entry-info">
+           <span>
+            <i class="fa fa-clock-o">
+            </i>
+            December 9, 2016
+           </span>
+          </div>
+         </div>
+         <h2>
+          <strong>
+           The Concept of Commoners :
+          </strong>
+         </h2>
+         <p>
+          The previous blogposts dealt with the
+          <a href="http://souranil.de/basics-birding-start/">
+           behaviour of birds
+          </a>
+          , the techniques for their identification, their
+          <a href="http://souranil.de/basics-birding-families-activity/">
+           classification
+          </a>
+          and the analysis on their activity. The upcoming posts including this one, will deal with an introduction to some common species who are popularly termed as ‘Commoners’. The following are a list of some common birds who are abundantly present in the urban as well as the rural environment and hence, chances of sighting them are maximum. In other words, these are some of the birds which one can expect to see on daily basis. Along with their photographs, there are their distribution maps (of the Indian subcontinent) which indicate the geographical area where they are existing.
+         </p>
+         <p>
+         </p>
+         <h3>
+          <strong>
+           Black Drongo :
+          </strong>
+         </h3>
+         <p>
+          <strong>
+           Scientific Name
+          </strong>
+          :
+          <em>
+           Dicrurus macrocercus
+          </em>
+         </p>
+         <p>
+          <strong>
+           Size
+          </strong>
+          : 31cm
+         </p>
+         <p>
+          <strong>
+           Family
+          </strong>
+          : Corvidae
+         </p>
+         <div class="wp-caption aligncenter" id="attachment_174" style="width: 950px">
+          <img alt="black-drongo-commoners" class="wp-image-174 size-large" height="627" sizes="(max-width: 940px) 100vw, 940px" src="http://souranil.de/wp-content/uploads/2016/10/Black-Drongo-Final-1024x683.jpg" srcset="http://souranil.de/wp-content/uploads/2016/10/Black-Drongo-Final-1024x683.jpg 1024w, http://souranil.de/wp-content/uploads/2016/10/Black-Drongo-Final-300x200.jpg 300w, http://souranil.de/wp-content/uploads/2016/10/Black-Drongo-Final-768x512.jpg 768w" width="940"/>
+          <p class="wp-caption-text">
+           Black Drongo with Distribution Map
+          </p>
+         </div>
+         <p>
+          <strong>
+           Appearance :
+          </strong>
+          Also, known as the King Crow, they are glossy black birds with  long,
+          <strong>
+           forked tails
+          </strong>
+          . They have dark red eyes with a deeply forked tail when moulting. Juveniles have a whitish belly with no or little fork.
+         </p>
+         <p>
+         </p>
+         <p>
+          <strong>
+           Habits :
+          </strong>
+          Usually solitary, sometimes in small groups, they pounce on aerial and ground insects from perch. Also, they follow livestock and ploughs for the same reason. Their calls include squeaks and chatters. They are aggressive and non-chalant to larger birds and they nest in trees.
+         </p>
+         <p>
+         </p>
+         <p>
+          <strong>
+           Habitat :
+          </strong>
+          They are considered to be commoners among the drongos, inhabiting open, wooden country, urban parks and cultivation and perching on ground, wires and bare branches.
+         </p>
+         <p>
+         </p>
+         <h3>
+          <strong>
+           Coppersmith Barbet :
+          </strong>
+         </h3>
+         <p>
+          <strong>
+           Scientific Name
+          </strong>
+          :
+          <em>
+           Megalaima haemacephala
+          </em>
+         </p>
+         <p>
+          <strong>
+           Size
+          </strong>
+          : 17cm
+         </p>
+         <p>
+          <strong>
+           Family
+          </strong>
+          : Megalaimidae
+         </p>
+         <p>
+         </p>
+         <div class="wp-caption aligncenter" id="attachment_175" style="width: 950px">
+          <img alt="coppersmith-barbet-commoners" class="wp-image-175 size-large" height="627" sizes="(max-width: 940px) 100vw, 940px" src="http://souranil.de/wp-content/uploads/2016/10/Coppersmith-Barbet-final-1024x683.jpg" srcset="http://souranil.de/wp-content/uploads/2016/10/Coppersmith-Barbet-final-1024x683.jpg 1024w, http://souranil.de/wp-content/uploads/2016/10/Coppersmith-Barbet-final-300x200.jpg 300w, http://souranil.de/wp-content/uploads/2016/10/Coppersmith-Barbet-final-768x512.jpg 768w" width="940"/>
+          <p class="wp-caption-text">
+           Coppersmith Barbet with Distribution Map
+          </p>
+         </div>
+         <p>
+          <strong>
+           Appearance :
+          </strong>
+          Also, known as the Crimson-breasted Barbet, it is a small green barbet with brightly coloured head. It has a black-bordered yellow face with eye strips, red forecrown and throat patch. The bill is stout and dark. The rest of the body is majorly green with paler underparts. Sexes are alike. Juveniles do not have the red colour composition.
+         </p>
+         <p>
+          <strong>
+           Habits :
+          </strong>
+          They are sociable and inquisitive. They mainly feed on nectar and fruits and nest in tree holes. The call is like
+          <strong>
+           a constant and repeated hammer beat
+          </strong>
+          on metal and hence it is known as the Coppersmith Barbet.
+         </p>
+         <p>
+          <strong>
+           Habitat :
+          </strong>
+          They are considered to be commoners among barbets and are easily found wherever trees exist (except for dense forests). Their primarily green body helps them with effective camouflage.
+          <strong>
+          </strong>
+         </p>
+         <p>
+         </p>
+         <h3>
+          <strong>
+           Indian Cormorant :
+          </strong>
+         </h3>
+         <p>
+          <strong>
+           Scientific Name
+          </strong>
+          :
+          <em>
+           Phalacrocorax fuscicollis
+          </em>
+         </p>
+         <p>
+          <strong>
+           Size
+          </strong>
+          : 63cm
+         </p>
+         <p>
+          <strong>
+           Family
+          </strong>
+          : Phalacrocoracidae
+         </p>
+         <p>
+         </p>
+         <div class="wp-caption aligncenter" id="attachment_176" style="width: 950px">
+          <img alt="cormorantfinal-commoners" class="wp-image-176 size-large" height="627" sizes="(max-width: 940px) 100vw, 940px" src="http://souranil.de/wp-content/uploads/2016/10/CormorantFinal-1024x683.jpg" srcset="http://souranil.de/wp-content/uploads/2016/10/CormorantFinal-1024x683.jpg 1024w, http://souranil.de/wp-content/uploads/2016/10/CormorantFinal-300x200.jpg 300w, http://souranil.de/wp-content/uploads/2016/10/CormorantFinal-768x512.jpg 768w" width="940"/>
+          <p class="wp-caption-text">
+           Indian Cormorant with Distribution Map
+          </p>
+         </div>
+         <p>
+          <strong>
+           Appearance :
+          </strong>
+          Also, known as the Indian Shag, it is medium-sized black waterbird. It has a slender neck and bill with a long flat head. It is slightly brownish in non-breeding state. Sexes are alike.
+         </p>
+         <p>
+          <strong>
+           Habits :
+          </strong>
+          Cormorants are usually silent but they croak near nests. They dive into waterbodies for fishing and swim low, but fly strongly and often high. They are
+          <strong>
+           often seen to hold wings open
+          </strong>
+          to dry them. Nesting is done in tree colonies often with other waterbirds.
+         </p>
+         <p>
+          <strong>
+           Habitat :
+          </strong>
+          They are seen to inhabit large waterbodies and the coast in large flocks. Their nesting locations are usually close to their feasting waterbody.
+         </p>
+         <p>
+         </p>
+         <h3>
+          <strong>
+           Black-rumped Flameback :
+          </strong>
+         </h3>
+         <p>
+          <strong>
+           Scientific Name
+          </strong>
+          :
+          <i>
+           Dinopium benghalense
+          </i>
+         </p>
+         <p>
+          <strong>
+           Size
+          </strong>
+          : 30cm
+         </p>
+         <p>
+          <strong>
+           Family
+          </strong>
+          : Picidae
+         </p>
+         <p>
+         </p>
+         <div class="wp-caption aligncenter" id="attachment_177" style="width: 950px">
+          <img alt="flameback-commoners" class="wp-image-177 size-large" height="627" src="http://souranil.de/wp-content/uploads/2016/10/Flameback-final-1024x683.jpg" width="940"/>
+          <p class="wp-caption-text">
+           Black-rumped Flameback with Distribution Map
+          </p>
+         </div>
+         <p>
+          <strong>
+           Appearance :
+          </strong>
+          Also, known as the Lesser Golden-back, it is a bright golden and black woodpecker with a bold red crest (female has blackish forecrown). It has black and yellow speckling on shoulders with black nape, rump and tail. Also, there is a white-streaked black throat and eyestripes which contrast with white cheeks.
+         </p>
+         <p>
+          <strong>
+           Habits :
+          </strong>
+          They are noisy birds with
+          <strong>
+           laughing cackles similar to the call of the White-throated Kingfisher
+          </strong>
+          . They feed on lower parts of tree trunks and on ground on invertebrates, mainly ants. They are often witnessed to rise up along broad tree trunks, pecking the barks in search of invertebrates. Their tail is used as a propeller. Their nests are self-made tree holes.
+         </p>
+         <p>
+          <strong>
+           Habitat :
+          </strong>
+          They are seen to inhabit dry open woodland, plantations and scrubs but they preferably nest in denser locations for the sake of security.
+         </p>
+         <p>
+         </p>
+         <h3>
+          Oriental Magpie Robin :
+         </h3>
+         <p>
+          <strong>
+           Scientific Name
+          </strong>
+          :
+          <em>
+           Copsychus saularis
+          </em>
+         </p>
+         <p>
+          <strong>
+           Size
+          </strong>
+          : 20cm
+         </p>
+         <p>
+          <strong>
+           Family
+          </strong>
+          : Muscicapidae
+         </p>
+         <p>
+         </p>
+         <div class="wp-caption aligncenter" id="attachment_180" style="width: 950px">
+          <img alt="oriental-magpie-robin-commoners" class="wp-image-180 size-large" height="627" sizes="(max-width: 940px) 100vw, 940px" src="http://souranil.de/wp-content/uploads/2016/10/Oriental-Magpie-Robin-1024x683.jpg" srcset="http://souranil.de/wp-content/uploads/2016/10/Oriental-Magpie-Robin-1024x683.jpg 1024w, http://souranil.de/wp-content/uploads/2016/10/Oriental-Magpie-Robin-300x200.jpg 300w, http://souranil.de/wp-content/uploads/2016/10/Oriental-Magpie-Robin-768x512.jpg 768w" width="940"/>
+          <p class="wp-caption-text">
+           Oriental Magpie Robin (Male)
+          </p>
+         </div>
+         <div class="wp-caption aligncenter" id="attachment_181" style="width: 950px">
+          <img alt="oriental-magpie-robinf" class="wp-image-181 size-large" height="627" sizes="(max-width: 940px) 100vw, 940px" src="http://souranil.de/wp-content/uploads/2016/10/Oriental-Magpie-RobinF-1024x683.jpg" srcset="http://souranil.de/wp-content/uploads/2016/10/Oriental-Magpie-RobinF-1024x683.jpg 1024w, http://souranil.de/wp-content/uploads/2016/10/Oriental-Magpie-RobinF-300x200.jpg 300w, http://souranil.de/wp-content/uploads/2016/10/Oriental-Magpie-RobinF-768x512.jpg 768w" width="940"/>
+          <p class="wp-caption-text">
+           Oriental Magpie Robin (Female) with Distribution Map
+          </p>
+         </div>
+         <p>
+          <strong>
+           Appearance :
+          </strong>
+          Also known as the Asian Magpie Robin, it is a long-tailed, black and white medium sized bird belonging to the group of chats. The male is glossy blackish (female is greyish) above with white wing patches. The lower breast to vent is white.
+         </p>
+         <p>
+          <strong>
+           Habits :
+          </strong>
+          They are
+          <strong>
+           often seen to flick and wag their long tails
+          </strong>
+          like wagtails do. The oriental magpie robins are usually noisy birds having harsh alarm calls, a stretched whistle as contact call and otherwise rich piping songs. They are aggressively territorial and quite confiding, with nests in tree holes, banks or buildings.
+         </p>
+         <p>
+          <strong>
+           Habitat :
+          </strong>
+          They inhabit almost all types of wooded country including parks and gardens, frequently perching high, particularly when singing but when they feed, they are nearer to the ground.
+         </p>
+         <p>
+         </p>
+         <h3>
+          <strong>
+           Asian Pied Starling :
+          </strong>
+         </h3>
+         <p>
+          <strong>
+           Scientific Name
+          </strong>
+          :
+          <em>
+           Sturnus contra
+          </em>
+         </p>
+         <p>
+          <strong>
+           Size
+          </strong>
+          : 23cm
+         </p>
+         <p>
+          <strong>
+           Family
+          </strong>
+          : Strunidae
+         </p>
+         <p>
+         </p>
+         <div class="wp-caption aligncenter" id="attachment_182" style="width: 950px">
+          <img alt="pied-mynah-commoners" class="wp-image-182 size-large" height="586" sizes="(max-width: 940px) 100vw, 940px" src="http://souranil.de/wp-content/uploads/2016/10/Pied-Mynah-final-1024x638.jpg" srcset="http://souranil.de/wp-content/uploads/2016/10/Pied-Mynah-final-1024x638.jpg 1024w, http://souranil.de/wp-content/uploads/2016/10/Pied-Mynah-final-300x187.jpg 300w, http://souranil.de/wp-content/uploads/2016/10/Pied-Mynah-final-768x478.jpg 768w" width="940"/>
+          <p class="wp-caption-text">
+           Asian Pied Starling with Distribution Map
+          </p>
+         </div>
+         <p>
+          <strong>
+           Appearance :
+          </strong>
+          Also known as the Pied Mynah, these are black and white terrestrial starlings with long pointed, red-based yellow bill and orange patches around eyes. They have yellow legs and sexes are alike.
+         </p>
+         <p>
+          <strong>
+           Habits :
+          </strong>
+          They are observed to be
+          <strong>
+           noisy with whistling, chuckling and screaming notes
+          </strong>
+          . They mainly feed on invertebrates, fruit and grain and are witnessed to reside socially in scattered flocks. They make untidy nests in trees and colonies.
+         </p>
+         <p>
+          <strong>
+           Habitat :
+          </strong>
+          They inhabit towns, villages and grasslands, existing in flocks, with strong pair-bonds.
+         </p>
+         <p>
+         </p>
+         <h3>
+          <strong>
+           Rose-ringed Parakeet :
+          </strong>
+         </h3>
+         <p>
+          <strong>
+           Scientific Name
+          </strong>
+          :
+          <i>
+           Psittacula krameri
+          </i>
+         </p>
+         <p>
+          <strong>
+           Size
+          </strong>
+          : 42cm
+         </p>
+         <p>
+          <strong>
+           Family
+          </strong>
+          : Psittacidae
+         </p>
+         <p>
+         </p>
+         <div class="wp-caption aligncenter" id="attachment_183" style="width: 950px">
+          <img alt="rose-ringed-parakeet-commoners" class="wp-image-183 size-large" height="627" sizes="(max-width: 940px) 100vw, 940px" src="http://souranil.de/wp-content/uploads/2016/10/Rose-Ringed-Parakeet-final-1024x683.jpg" srcset="http://souranil.de/wp-content/uploads/2016/10/Rose-Ringed-Parakeet-final-1024x683.jpg 1024w, http://souranil.de/wp-content/uploads/2016/10/Rose-Ringed-Parakeet-final-300x200.jpg 300w, http://souranil.de/wp-content/uploads/2016/10/Rose-Ringed-Parakeet-final-768x512.jpg 768w" width="940"/>
+          <p class="wp-caption-text">
+           Rose-Ringed Parakeet with Distribution Map
+          </p>
+         </div>
+         <p>
+          <strong>
+           Appearance :
+          </strong>
+          They are the commoners among the family of parakeets. The base colour is grass green, along with a bluish tail and red bill. The male has black and pink  malar stripes and collar after third year. The female lacks these.
+         </p>
+         <p>
+          <strong>
+           Habits :
+          </strong>
+          They are well-known for damaging vegetables, fruits and grain crops. The call is generally noisy both during flight and rest. A
+          <strong>
+           loud shrill shriek is usually repeated
+          </strong>
+          . Nesting is done in holes in trees and walls, often enlarging an existing site.
+         </p>
+         <p>
+          <strong>
+           Habitat :
+          </strong>
+          They inhabit trees, usually tall ones. In other occasions, they favour city parks, gardens and cultivations.
+         </p>
+         <p>
+         </p>
+         <h3>
+          <strong>
+           White-throated Kingfisher :
+          </strong>
+         </h3>
+         <p>
+          <strong>
+           Scientific Name
+          </strong>
+          :
+          <i>
+           Halcyon smyrnensis
+          </i>
+         </p>
+         <p>
+          <strong>
+           Size
+          </strong>
+          : 28cm
+         </p>
+         <p>
+          <strong>
+           Family
+          </strong>
+          : Halcyonidae
+         </p>
+         <p>
+         </p>
+         <div class="wp-caption aligncenter" id="attachment_184" style="width: 950px">
+          <img alt="white-throated-kingfisher-commoners" class="wp-image-184 size-large" height="470" sizes="(max-width: 940px) 100vw, 940px" src="http://souranil.de/wp-content/uploads/2016/10/White-Throated-Kingfisher-final-1024x512.jpg" srcset="http://souranil.de/wp-content/uploads/2016/10/White-Throated-Kingfisher-final-1024x512.jpg 1024w, http://souranil.de/wp-content/uploads/2016/10/White-Throated-Kingfisher-final-300x150.jpg 300w, http://souranil.de/wp-content/uploads/2016/10/White-Throated-Kingfisher-final-768x384.jpg 768w" width="940"/>
+          <p class="wp-caption-text">
+           White-throated Kingfisher with Distribution Map
+          </p>
+         </div>
+         <p>
+          <strong>
+           Appearance :
+          </strong>
+          Also known as the White-breasted Kingfisher, it is a medium-sized kingfisher with a powerful red bill and a long tail. The head and underparts are brown with white throat and central breast.
+          <strong>
+           The back and tail are bright blue
+          </strong>
+          . Sexes are alike.
+         </p>
+         <p>
+          <strong>
+           Habits :
+          </strong>
+          The calls are noisy. They are often heard with a very loud and long periodic cackle. They feed on fish, insects, reptiles, amphibians and rodents. Nesting is done on banks.
+         </p>
+         <p>
+          <strong>
+           Habitat :
+          </strong>
+          They are known to be commoners among kingfishers and are found in cultivation, parks, gardens, fresh and coastal wetland, frequently perching on wires, posts and in trees.
+         </p>
+         <p>
+         </p>
+         <p>
+          All photographs and maps are subjected to copyright. Please do not use without prior permission.
+         </p>
+         <p>
+          <strong>
+           ©www.souranil.de
+          </strong>
+         </p>
+         <div class="fb-like" data-action="like" data-font="" data-href="http://souranil.de/list-common-birds-part-1/" data-layout="standard" data-send="false" data-width="450" show_faces="true" style="margin: 0px 0px 0px 0px;">
+         </div>
+         <div class="wp_rp_wrap wp_rp_vertical_m" id="wp_rp_first">
+          <div class="wp_rp_content">
+           <h3 class="related_post_title">
+            More from my site
+           </h3>
+           <ul class="related_post wp_rp">
+            <li data-poid="in-219" data-position="0" data-post-type="none">
+             <a class="wp_rp_thumbnail" href="http://souranil.de/list-common-birds-part-3/">
+              <img alt="List of Common Birds : Part 3" height="150" src="http://souranil.de/wp-content/uploads/2017/03/IMG_9639-150x150.jpg" width="150"/>
+             </a>
+             <a class="wp_rp_title" href="http://souranil.de/list-common-birds-part-3/">
+              List of Common Birds : Part 3
+             </a>
+            </li>
+            <li data-poid="in-198" data-position="1" data-post-type="none">
+             <a class="wp_rp_thumbnail" href="http://souranil.de/list-common-birds-part-2/">
+              <img alt="List of Common Birds : Part 2" height="150" src="http://souranil.de/wp-content/uploads/2017/02/8-150x150.jpg" width="150"/>
+             </a>
+             <a class="wp_rp_title" href="http://souranil.de/list-common-birds-part-2/">
+              List of Common Birds : Part 2
+             </a>
+            </li>
+            <li data-poid="in-247" data-position="2" data-post-type="none">
+             <a class="wp_rp_thumbnail" href="http://souranil.de/list-common-birds-part-4/">
+              <img alt="List of Common Birds : Part 4" height="150" src="http://souranil.de/wp-content/uploads/2017/07/IMG_9205-uncropped-150x150.jpg" width="150"/>
+             </a>
+             <a class="wp_rp_title" href="http://souranil.de/list-common-birds-part-4/">
+              List of Common Birds : Part 4
+             </a>
+            </li>
+            <li data-poid="in-9" data-position="3" data-post-type="none">
+             <a class="wp_rp_thumbnail" href="http://souranil.de/basics-birding-start/">
+              <img alt="Basics of Birding : How to start" height="150" src="http://souranil.de/wp-content/uploads/2016/06/Pigeon-Desc-150x150.jpg" width="150"/>
+             </a>
+             <a class="wp_rp_title" href="http://souranil.de/basics-birding-start/">
+              Basics of Birding : How to start
+             </a>
+            </li>
+            <li data-poid="in-361" data-position="4" data-post-type="none">
+             <a class="wp_rp_thumbnail" href="http://souranil.de/woodpeckers-of-india/">
+              <img alt="A Few Woodpeckers" height="150" src="http://souranil.de/wp-content/uploads/2017/09/IMG_4228-150x150.jpg" width="150"/>
+             </a>
+             <a class="wp_rp_title" href="http://souranil.de/woodpeckers-of-india/">
+              A Few Woodpeckers
+             </a>
+            </li>
+            <li data-poid="in-558" data-position="5" data-post-type="none">
+             <a class="wp_rp_thumbnail" href="http://souranil.de/birding-mangalajodi/">
+              <img alt="Birding in Mangalajodi" height="150" src="http://souranil.de/wp-content/uploads/2018/03/IMG_5865-150x150.jpg" width="150"/>
+             </a>
+             <a class="wp_rp_title" href="http://souranil.de/birding-mangalajodi/">
+              Birding in Mangalajodi
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+         <div class="social-sharing ss-social-sharing">
+          <a class="ss-button-facebook" href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsouranil.de%2Flist-common-birds-part-1%2F" onclick="return ss_plugin_loadpopup_js(this);" rel="external nofollow" target="_blank">
+           Share on Facebook
+          </a>
+          <a class="ss-button-twitter" href="http://twitter.com/intent/tweet/?text=List+of+Common+Birds+%3A+Part+1&amp;url=http%3A%2F%2Fsouranil.de%2Flist-common-birds-part-1%2F" onclick="return ss_plugin_loadpopup_js(this);" rel="external nofollow" target="_blank">
+           Share on Twitter
+          </a>
+          <a class="ss-button-googleplus" href="https://plus.google.com/share?url=http%3A%2F%2Fsouranil.de%2Flist-common-birds-part-1%2F" onclick="return ss_plugin_loadpopup_js(this);" rel="external nofollow" target="_blank">
+           Share on Google+
+          </a>
+         </div>
+         <footer class="line">
+          <span class="entry-info">
+           <strong>
+            Tags:
+           </strong>
+           <a href="http://souranil.de/tag/bird-appearance/" rel="tag">
+            Bird appearance
+           </a>
+           ,
+           <a href="http://souranil.de/tag/bird-distribution-india/" rel="tag">
+            bird distribution India
+           </a>
+           ,
+           <a href="http://souranil.de/tag/bird-distributions/" rel="tag">
+            bird distributions
+           </a>
+           ,
+           <a href="http://souranil.de/tag/bird-habitat/" rel="tag">
+            bird habitat
+           </a>
+           ,
+           <a href="http://souranil.de/tag/bird-habitats/" rel="tag">
+            bird habitats
+           </a>
+           ,
+           <a href="http://souranil.de/tag/bird-habits/" rel="tag">
+            bird habits
+           </a>
+           ,
+           <a href="http://souranil.de/tag/birds-of-india/" rel="tag">
+            birds of India
+           </a>
+           ,
+           <a href="http://souranil.de/tag/black-drongo/" rel="tag">
+            black drongo
+           </a>
+           ,
+           <a href="http://souranil.de/tag/black-rumped-flameback/" rel="tag">
+            black rumped flameback
+           </a>
+           ,
+           <a href="http://souranil.de/tag/common-birds/" rel="tag">
+            common birds
+           </a>
+           ,
+           <a href="http://souranil.de/tag/common-birds-of-india/" rel="tag">
+            common birds of india
+           </a>
+           ,
+           <a href="http://souranil.de/tag/commoners/" rel="tag">
+            commoners
+           </a>
+           ,
+           <a href="http://souranil.de/tag/coppersmith-barbet/" rel="tag">
+            coppersmith barbet
+           </a>
+           ,
+           <a href="http://souranil.de/tag/golden-backed-woodpecker/" rel="tag">
+            golden-backed woodpecker
+           </a>
+           ,
+           <a href="http://souranil.de/tag/indian-birds/" rel="tag">
+            Indian birds
+           </a>
+           ,
+           <a href="http://souranil.de/tag/indian-cormorant/" rel="tag">
+            indian cormorant
+           </a>
+           ,
+           <a href="http://souranil.de/tag/oriental-magpie-robin/" rel="tag">
+            oriental magpie robin
+           </a>
+           ,
+           <a href="http://souranil.de/tag/pied-mynah/" rel="tag">
+            pied mynah
+           </a>
+           ,
+           <a href="http://souranil.de/tag/rose-ringed-parakeet/" rel="tag">
+            rose ringed parakeet
+           </a>
+           ,
+           <a href="http://souranil.de/tag/white-throated-kingfisher/" rel="tag">
+            white throated kingfisher
+           </a>
+          </span>
+         </footer>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <footer id="footer">
+    <div id="footer_widgets">
+     <div class="container sidebar-area">
+      <div class="row">
+       <div class="widget_text col-md-3 widget_custom_html" id="custom_html-9">
+        <div class="widget_text widget-box">
+         <h4 class="title">
+          Contact Me
+         </h4>
+         <div class="textwidget custom-html-widget">
+          <b>
+           Phone :
+          </b>
+          +91 9937830166
+          <br/>
+          <br/>
+          <b>
+           Email :
+          </b>
+          me@souranil.de
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="container">
+     <div class="row copyright">
+      <div class="col-md-5">
+       <p>
+        © Souranil De | 2018
+       </p>
+      </div>
+      <div class="col-md-7">
+       <div class="social-buttons">
+        <a class="social" href="http://www.facebook.com/souranil.de" target="_blank" title="facebook">
+         <i class="fa fa-facebook">
+         </i>
+        </a>
+        <a class="social" href="http://www.twitter.com/souranil_de" target="_blank" title="twitter">
+         <i class="fa fa-twitter">
+         </i>
+        </a>
+        <a class="social" href="https://www.linkedin.com/in/souranil-de/" target="_blank" title="linkedin">
+         <i class="fa fa-linkedin">
+         </i>
+        </a>
+        <a class="social" href="http://www.instagram.com/souranil.de" target="_blank" title="instagram">
+         <i class="fa fa-instagram">
+         </i>
+        </a>
+        <a class="social" href="mailto:me@souranil.de" target="_self" title="email">
+         <i class="fa fa-envelope">
+         </i>
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <div class="back-to-top" id="back-to-top">
+   <i class="fa fa-chevron-up">
+   </i>
+  </div>
+  <div id="fb-root">
+  </div>
+  <script>
+   (function(d, s, id) {
+	var js, fjs = d.getElementsByTagName(s)[0];
+	if (d.getElementById(id)) return;
+	js = d.createElement(s); js.id = id;
+	js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=165570960176857";
+	fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+  </script>
+  <!-- Instagram Feed JS -->
+  <script type="text/javascript">
+   var sbiajaxurl = "http://souranil.de/wp-admin/admin-ajax.php";
+  </script>
+  <!--facebook like and share js -->
+  <div id="fb-root">
+  </div>
+  <script>
+   (function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+		  	if (d.getElementById(id)) return;
+		  	js = d.createElement(s); js.id = id;
+		  	js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+		  	fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+  </script>
+  <!--<div id="fb-root"></div>
+        <script>
+        (function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=1425108201100352&version=v2.0";
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>-->
+  <!--google share and  like and e js -->
+  <script type="text/javascript">
+   window.___gcfg = {
+              lang: 'en-US'
+            };
+            (function() {
+                var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                po.src = 'https://apis.google.com/js/plusone.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+            })();
+  </script>
+  <!-- google share -->
+  <script type="text/javascript">
+   (function() {
+            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+            po.src = 'https://apis.google.com/js/platform.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+          })();
+  </script>
+  <!-- twitter JS End -->
+  <script>
+   !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+  </script>
+  <script>
+   jQuery( document ).scroll(function( $ )
+                {
+                    var y = jQuery(this).scrollTop();
+            
+                    if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent))
+                    {    
+                       if(jQuery(window).scrollTop() + jQuery(window).height() >= jQuery(document).height()-100)
+                       {
+                          jQuery('.sfsi_outr_div').css({'z-index':'9996',opacity:1,top:jQuery(window).scrollTop()+"px",position:"absolute"});
+                          jQuery('.sfsi_outr_div').fadeIn(200);
+                          jQuery('.sfsi_FrntInner_chg').fadeIn(200);
+                       }
+                       else{
+                           jQuery('.sfsi_outr_div').fadeOut();
+                           jQuery('.sfsi_FrntInner_chg').fadeOut();
+                       }
+                  }
+                  else
+                  {
+                       if(jQuery(window).scrollTop() + jQuery(window).height() >= jQuery(document).height()-3)
+                       {
+                            jQuery('.sfsi_outr_div').css({'z-index':'9996',opacity:1,top:jQuery(window).scrollTop()+200+"px",position:"absolute"});
+                            jQuery('.sfsi_outr_div').fadeIn(200);
+                            jQuery('.sfsi_FrntInner_chg').fadeIn(200);
+                       }
+                       else
+                       {
+                         jQuery('.sfsi_outr_div').fadeOut();
+                         jQuery('.sfsi_FrntInner_chg').fadeOut();
+                       }
+                  } 
+                });
+  </script>
+  <script>
+   jQuery(document).ready(function(e) {
+                jQuery("body").addClass("sfsi_2.10")
+            });
+			function sfsi_processfurther(ref) {
+				var feed_id = 'WFdFZGs0WEhBQkw3bVVTc2U2b29naEdsVjJyaFYwTThXMldkVjhtMktZRjFxTmM3ZVlreC8zSngvcDQ3dGp6M3M4TWVkT0UrQ3JYZTZlQ255M3c5cjAzMjFXTWs5a2xCZHlJWlAvWG9sMGw0TEVCeVQ2b0pHc3BDbFNEV0ZrTEp8ekNvRjZSUEJuSWZmYVVVSVJ6bkplOVRCK1djR2UxUnIvR3ZDN20xcWtIWT0=';
+				var feedtype = 8;
+				var email = jQuery(ref).find('input[name="data[Widget][email]"]').val();
+				var filter = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+				if ((email != "Enter your email") && (filter.test(email))) {
+					if (feedtype == "8") {
+						var url ="https://www.specificfeeds.com/widgets/subscribeWidget/"+feed_id+"/"+feedtype;
+						window.open(url, "popupwindow", "scrollbars=yes,width=1080,height=760");
+						return true;
+					}
+				} else {
+					alert("Please enter email address");
+					jQuery(ref).find('input[name="data[Widget][email]"]').focus();
+					return false;
+				}
+			}
+  </script>
+  <style aria-selected="true" type="text/css">
+   .sfsi_subscribe_Popinner
+			{
+								width: 100% !important;
+				height: auto !important;
+												border: 1px solid #b5b5b5 !important;
+								padding: 18px 0px !important;
+				background-color: #ffffff !important;
+			}
+			.sfsi_subscribe_Popinner form
+			{
+				margin: 0 20px !important;
+			}
+			.sfsi_subscribe_Popinner h5
+			{
+				font-family: Helvetica,Arial,sans-serif !important;
+								font-weight: bold !important;
+								color: #000000 !important;
+				font-size: 16px !important;
+				text-align: center !important;
+				margin: 0 0 10px !important;
+    			padding: 0 !important;
+			}
+			.sfsi_subscription_form_field {
+				margin: 5px 0 !important;
+				width: 100% !important;
+				display: inline-flex;
+				display: -webkit-inline-flex;
+			}
+			.sfsi_subscription_form_field input {
+				width: 100% !important;
+				padding: 10px 0px !important;
+			}
+			.sfsi_subscribe_Popinner input[type=email]
+			{
+				font-family: Helvetica,Arial,sans-serif !important;
+								font-style: normal !important;
+								color: #000000 !important;
+				font-size: 14px !important;
+				text-align: center !important;
+			}
+			.sfsi_subscribe_Popinner input[type=email]::-webkit-input-placeholder {
+			   	font-family: Helvetica,Arial,sans-serif !important;
+								font-style: normal !important;
+								color: #000000 !important;
+				font-size: 14px !important;
+				text-align: center !important;
+			}
+			.sfsi_subscribe_Popinner input[type=email]:-moz-placeholder { /* Firefox 18- */
+			    font-family: Helvetica,Arial,sans-serif !important;
+								font-style: normal !important;
+								color: #000000 !important;
+				font-size: 14px !important;
+				text-align: center !important;
+			}
+			.sfsi_subscribe_Popinner input[type=email]::-moz-placeholder {  /* Firefox 19+ */
+			    font-family: Helvetica,Arial,sans-serif !important;
+								font-style: normal !important;
+								color: #000000 !important;
+				font-size: 14px !important;
+				text-align: center !important;
+			}
+			.sfsi_subscribe_Popinner input[type=email]:-ms-input-placeholder {  
+			  	font-family: Helvetica,Arial,sans-serif !important;
+								font-style: normal !important;
+								color: #000000 !important;
+				font-size: 14px !important;
+				text-align: center !important;
+			}
+			.sfsi_subscribe_Popinner input[type=submit]
+			{
+				font-family: Helvetica,Arial,sans-serif !important;
+								font-weight: bold !important;
+								color: #000000 !important;
+				font-size: 16px !important;
+				text-align: center !important;
+				background-color: #dedede !important;
+			}
+  </style>
+  <div class="msgmsg-box-wpcp warning-wpcp hideme" id="wpcp-error-message">
+   <span>
+    error:
+   </span>
+   Content is protected !!
+  </div>
+  <script>
+   var timeout_result;
+	function show_wpcp_message(smessage)
+	{
+		if (smessage !== "")
+			{
+			var smessage_text = '<span>Alert: </span>'+smessage;
+			document.getElementById("wpcp-error-message").innerHTML = smessage_text;
+			document.getElementById("wpcp-error-message").className = "msgmsg-box-wpcp warning-wpcp showme";
+			clearTimeout(timeout_result);
+			timeout_result = setTimeout(hide_message, 3000);
+			}
+	}
+	function hide_message()
+	{
+		document.getElementById("wpcp-error-message").className = "msgmsg-box-wpcp warning-wpcp hideme";
+	}
+  </script>
+  <style type="text/css">
+   #wpcp-error-message {
+	    direction: ltr;
+	    text-align: center;
+	    transition: opacity 900ms ease 0s;
+	    z-index: 99999999;
+	}
+	.hideme {
+    	opacity:0;
+    	visibility: hidden;
+	}
+	.showme {
+    	opacity:1;
+    	visibility: visible;
+	}
+	.msgmsg-box-wpcp {
+		border-radius: 10px;
+		color: #555;
+		font-family: Tahoma;
+		font-size: 11px;
+		margin: 10px;
+		padding: 10px 36px;
+		position: fixed;
+		width: 255px;
+		top: 50%;
+  		left: 50%;
+  		margin-top: -10px;
+  		margin-left: -130px;
+  		-webkit-box-shadow: 0px 0px 34px 2px rgba(242,191,191,1);
+		-moz-box-shadow: 0px 0px 34px 2px rgba(242,191,191,1);
+		box-shadow: 0px 0px 34px 2px rgba(242,191,191,1);
+	}
+	.msgmsg-box-wpcp span {
+		font-weight:bold;
+		text-transform:uppercase;
+	}
+	.error-wpcp {		background:#ffecec url('http://souranil.de/wp-content/plugins/wp-content-copy-protector/images/error.png') no-repeat 10px 50%;
+		border:1px solid #f5aca6;
+	}
+	.success {
+		background:#e9ffd9 url('http://souranil.de/wp-content/plugins/wp-content-copy-protector/images/success.png') no-repeat 10px 50%;
+		border:1px solid #a6ca8a;
+	}
+	.warning-wpcp {
+		background:#ffecec url('http://souranil.de/wp-content/plugins/wp-content-copy-protector/images/warning.png') no-repeat 10px 50%;
+		border:1px solid #f5aca6;
+	}
+	.notice {
+		background:#e3f7fc url('http://souranil.de/wp-content/plugins/wp-content-copy-protector/images/notice.png') no-repeat 10px 50%;
+		border:1px solid #8ed9f6;
+	}
+  </style>
+  <script type="text/javascript">
+   /* <![CDATA[ */
+var sb_instagram_js_options = {"sb_instagram_at":"1671452019.M2E4MWE5Zg==.MzkzODg3YWE1ZDE3.NGFjNWEyYzRlNmRkZjI1MTk5NTE=","font_method":"svg"};
+/* ]]> */
+  </script>
+  <script src="http://souranil.de/wp-content/plugins/instagram-feed/js/sb-instagram.min.js?ver=1.10.2" type="text/javascript">
+  </script>
+  <script src="http://souranil.de/wp-content/plugins/photo-gallery/js/jquery.sumoselect.min.js?ver=3.0.3" type="text/javascript">
+  </script>
+  <script src="http://souranil.de/wp-content/plugins/photo-gallery/js/jquery.mobile.min.js?ver=1.5.14" type="text/javascript">
+  </script>
+  <script src="http://souranil.de/wp-content/plugins/photo-gallery/js/jquery.mCustomScrollbar.concat.min.js?ver=1.5.14" type="text/javascript">
+  </script>
+  <script src="http://souranil.de/wp-content/plugins/photo-gallery/js/jquery.fullscreen-0.4.1.min.js?ver=0.4.1" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   /* <![CDATA[ */
+var bwg_objectL10n = {"bwg_field_required":"field is required.","bwg_mail_validation":"This is not a valid email address.","bwg_search_result":"There are no images matching your search.","is_pro":""};
+/* ]]> */
+  </script>
+  <script src="http://souranil.de/wp-content/plugins/photo-gallery/js/bwg_gallery_box.js?ver=1.5.14" type="text/javascript">
+  </script>
+  <script src="http://souranil.de/wp-content/plugins/photo-gallery/js/bwg_embed.js?ver=1.5.14" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   /* <![CDATA[ */
+var bwg_objectsL10n = {"bwg_select_tag":"Select Tag","bwg_order_by":"Order By","bwg_search":"Search","bwg_show_ecommerce":"Show Ecommerce","bwg_hide_ecommerce":"Hide Ecommerce","bwg_show_comments":"Show Comments","bwg_hide_comments":"Hide Comments","bwg_restore":"Restore","bwg_maximize":"Maximize","bwg_fullscreen":"Fullscreen","bwg_search_tag":"SEARCH...","bwg_tag_no_match":"No tags found","bwg_all_tags_selected":"All tags selected","bwg_tags_selected":"tags selected","play":"Play","pause":"Pause","is_pro":""};
+/* ]]> */
+  </script>
+  <script src="http://souranil.de/wp-content/plugins/photo-gallery/js/bwg_frontend.js?ver=1.5.14" type="text/javascript">
+  </script>
+  <script src="http://souranil.de/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4" type="text/javascript">
+  </script>
+  <script src="http://souranil.de/wp-content/plugins/ultimate-social-media-icons/js/shuffle/modernizr.custom.min.js?ver=671c3a75ff4226f744d0c3797082995e" type="text/javascript">
+  </script>
+  <script src="http://souranil.de/wp-content/plugins/ultimate-social-media-icons/js/shuffle/jquery.shuffle.min.js?ver=671c3a75ff4226f744d0c3797082995e" type="text/javascript">
+  </script>
+  <script src="http://souranil.de/wp-content/plugins/ultimate-social-media-icons/js/shuffle/random-shuffle-min.js?ver=671c3a75ff4226f744d0c3797082995e" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   /* <![CDATA[ */
+var ajax_object = {"ajax_url":"http:\/\/souranil.de\/wp-admin\/admin-ajax.php"};
+var ajax_object = {"ajax_url":"http:\/\/souranil.de\/wp-admin\/admin-ajax.php","plugin_url":"http:\/\/souranil.de\/wp-content\/plugins\/ultimate-social-media-icons\/"};
+/* ]]> */
+  </script>
+  <script src="http://souranil.de/wp-content/plugins/ultimate-social-media-icons/js/custom.js?ver=671c3a75ff4226f744d0c3797082995e" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   /* <![CDATA[ */
+var pollsL10n = {"ajax_url":"http:\/\/souranil.de\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
+/* ]]> */
+  </script>
+  <script src="http://souranil.de/wp-content/plugins/wp-polls/polls-js.js?ver=2.75.2" type="text/javascript">
+  </script>
+  <script src="http://souranil.de/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4" type="text/javascript">
+  </script>
+  <script src="http://souranil.de/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4" type="text/javascript">
+  </script>
+  <script src="http://souranil.de/wp-includes/js/imagesloaded.min.js?ver=3.2.0" type="text/javascript">
+  </script>
+  <script src="http://souranil.de/wp-includes/js/masonry.min.js?ver=3.3.2" type="text/javascript">
+  </script>
+  <script src="http://souranil.de/wp-content/themes/suevafree/assets/js/jquery.easing.1.3.js?ver=671c3a75ff4226f744d0c3797082995e" type="text/javascript">
+  </script>
+  <script src="http://souranil.de/wp-content/themes/suevafree/assets/js/jquery.imagesloaded.min.js?ver=671c3a75ff4226f744d0c3797082995e" type="text/javascript">
+  </script>
+  <script src="http://souranil.de/wp-content/themes/suevafree/assets/js/jquery.nicescroll.min.js?ver=671c3a75ff4226f744d0c3797082995e" type="text/javascript">
+  </script>
+  <script src="http://souranil.de/wp-content/themes/suevafree/assets/js/jquery.prettyPhoto.js?ver=671c3a75ff4226f744d0c3797082995e" type="text/javascript">
+  </script>
+  <script src="http://souranil.de/wp-content/themes/suevafree/assets/js/jquery.scrollTo.js?ver=671c3a75ff4226f744d0c3797082995e" type="text/javascript">
+  </script>
+  <script src="http://souranil.de/wp-content/themes/suevafree/assets/js/jquery.tinynav.js?ver=671c3a75ff4226f744d0c3797082995e" type="text/javascript">
+  </script>
+  <script src="http://souranil.de/wp-content/themes/suevafree/assets/js/jquery.tipsy.js?ver=671c3a75ff4226f744d0c3797082995e" type="text/javascript">
+  </script>
+  <script src="http://souranil.de/wp-content/themes/suevafree/assets/js/jquery.touchSwipe.min.js?ver=671c3a75ff4226f744d0c3797082995e" type="text/javascript">
+  </script>
+  <script src="http://souranil.de/wp-content/themes/suevafree/assets/js/jquery.wip.js?ver=671c3a75ff4226f744d0c3797082995e" type="text/javascript">
+  </script>
+  <script src="http://souranil.de/wp-includes/js/comment-reply.min.js?ver=671c3a75ff4226f744d0c3797082995e" type="text/javascript">
+  </script>
+  <script src="http://souranil.de/wp-content/plugins/wp-social-sharing/static/socialshare.js?ver=1.6" type="text/javascript">
+  </script>
+  <script src="http://souranil.de/wp-includes/js/wp-embed.min.js?ver=671c3a75ff4226f744d0c3797082995e" type="text/javascript">
+  </script>
+ </body>
+</html>
